@@ -9,3 +9,4 @@
 | 2026-06-01 | pa11y/pa11y | PR | https://github.com/pa11y/pa11y/pull/825 | Fix broken fork link reference and stray trailing quote in README |
 | 2026-06-02 | taverntesting/tavern | PR | https://github.com/taverntesting/tavern/pull/1049 | Replace deprecated py.test command with pytest across 14 occurrences in docs |
 | 2026-06-03 | testcontainers/testcontainers-python | PR | https://github.com/testcontainers/testcontainers-python/pull/1030 | Fix 5 typos in CONTRIBUTING.md files (PLease, foruced, mew module, missing spaces, wrong "Go" reference) |
+| 2026-06-04 | scanapi/scanapi | PR | https://github.com/scanapi/scanapi/pull/987 | Replace LambdaTest logo with TestMu AI logo (rebrand) and add alt text for accessibility |
