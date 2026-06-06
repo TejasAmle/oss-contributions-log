@@ -11,3 +11,4 @@
 | 2026-06-03 | testcontainers/testcontainers-python | PR | https://github.com/testcontainers/testcontainers-python/pull/1030 | Fix 5 typos in CONTRIBUTING.md files (PLease, foruced, mew module, missing spaces, wrong "Go" reference) |
 | 2026-06-04 | scanapi/scanapi | PR | https://github.com/scanapi/scanapi/pull/987 | Replace LambdaTest logo with TestMu AI logo (rebrand) and add alt text for accessibility |
 | 2026-06-05 | python-cmd2/cmd2 | PR | https://github.com/python-cmd2/cmd2/pull/1675 | Fix deprecated git:// URL → https:// in installation guide (GitHub disabled git:// in 2022) |
+| 2026-06-06 | kevin1024/vcrpy | PR | https://github.com/kevin1024/vcrpy/pull/998 | Replace Python 2 urllib2 with urllib.request in docs/advanced.rst and installation.rst |
