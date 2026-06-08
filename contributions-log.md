@@ -13,3 +13,4 @@
 | 2026-06-05 | python-cmd2/cmd2 | PR | https://github.com/python-cmd2/cmd2/pull/1675 | Fix deprecated git:// URL → https:// in installation guide (GitHub disabled git:// in 2022) |
 | 2026-06-06 | kevin1024/vcrpy | PR | https://github.com/kevin1024/vcrpy/pull/998 | Replace Python 2 urllib2 with urllib.request in docs/advanced.rst and installation.rst |
 | 2026-06-07 | pytest-dev/pytest-mock | PR | https://github.com/pytest-dev/pytest-mock/pull/584 | Replace outdated HTTP links with HTTPS in docs (pip-installer.org, pypi.python.org, docs.pytest.org) |
+| 2026-06-08 | schemathesis/schemathesis | PR | https://github.com/schemathesis/schemathesis/pull/4233 | Fix example output in extending-cli.md to match format strings (removed stray "case" word) |
