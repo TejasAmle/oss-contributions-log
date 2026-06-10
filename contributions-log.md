@@ -15,3 +15,4 @@
 | 2026-06-07 | pytest-dev/pytest-mock | PR | https://github.com/pytest-dev/pytest-mock/pull/584 | Replace outdated HTTP links with HTTPS in docs (pip-installer.org, pypi.python.org, docs.pytest.org) |
 | 2026-06-08 | schemathesis/schemathesis | PR | https://github.com/schemathesis/schemathesis/pull/4233 | Fix example output in extending-cli.md to match format strings (removed stray "case" word) |
 | 2026-06-09 | pytest-dev/pytest-bdd | PR | https://github.com/pytest-dev/pytest-bdd/pull/812 | Replace 4 deprecated pypi.python.org links with pypi.org and dead relishapp.com link with cucumber-json-formatter repo |
+| 2026-06-10 | boxed/mutmut | PR | https://github.com/boxed/mutmut/pull/524 | Fix two prose errors in README.rst: remove spurious "by" in quick-start and fix missing space in workflow section |
