@@ -19,3 +19,4 @@
 | 2026-06-11 | Breakthrough/PySceneDetect | PR | https://github.com/Breakthrough/PySceneDetect/pull/554 | Fix three typos in website docs: "approchable"→"approachable", "perfromance"→"performance", missing space after period |
 | 2026-06-12 | econchick/interrogate | PR | https://github.com/econchick/interrogate/pull/190 | Fix copy-paste error in docs/index.rst: -w/--whitelist-regex option incorrectly referenced -r/--ignore-regex in its "Multiple invocations supported" note |
 | 2026-06-13 | johnthagen/python-blueprint | PR | https://github.com/johnthagen/python-blueprint/pull/352 | Fix two typos: "soley"→"solely" in README.md and "neccessary"→"necessary" in pyproject.toml |
+| 2026-06-14 | pallets/click | PR | https://github.com/pallets/click/pull/3594 | Fix two doc typos: "the a help page"→"a help page" in exceptions.md and missing closing quote in f-string example in shell-completion.md |
