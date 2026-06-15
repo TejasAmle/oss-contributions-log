@@ -20,3 +20,4 @@
 | 2026-06-12 | econchick/interrogate | PR | https://github.com/econchick/interrogate/pull/190 | Fix copy-paste error in docs/index.rst: -w/--whitelist-regex option incorrectly referenced -r/--ignore-regex in its "Multiple invocations supported" note |
 | 2026-06-13 | johnthagen/python-blueprint | PR | https://github.com/johnthagen/python-blueprint/pull/352 | Fix two typos: "soley"→"solely" in README.md and "neccessary"→"necessary" in pyproject.toml |
 | 2026-06-14 | pallets/click | PR | https://github.com/pallets/click/pull/3594 | Fix two doc typos: "the a help page"→"a help page" in exceptions.md and missing closing quote in f-string example in shell-completion.md |
+| 2026-06-15 | doorstop-dev/doorstop | PR | https://github.com/doorstop-dev/doorstop/pull/778 | Fix 4 http:// → https:// links in README and update Poetry URL from retired poetry.eustace.io to python-poetry.org |
