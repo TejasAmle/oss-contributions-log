@@ -22,3 +22,4 @@
 | 2026-06-14 | pallets/click | PR | https://github.com/pallets/click/pull/3594 | Fix two doc typos: "the a help page"→"a help page" in exceptions.md and missing closing quote in f-string example in shell-completion.md |
 | 2026-06-15 | doorstop-dev/doorstop | PR | https://github.com/doorstop-dev/doorstop/pull/778 | Fix 4 http:// → https:// links in README and update Poetry URL from retired poetry.eustace.io to python-poetry.org |
 | 2026-06-16 | pytest-dev/pytest-asyncio | PR | https://github.com/pytest-dev/pytest-asyncio/pull/1483 | Fix typo "it default" → "it defaults" in asyncio_default_test_loop_scope description in configuration.rst |
+| 2026-06-17 | pschanely/CrossHair | PR | https://github.com/pschanely/CrossHair/pull/432 | Fix misnumbered list (1,3,2→1,2,3) in --per_path_timeout help text across main.py and 3 doc files |
