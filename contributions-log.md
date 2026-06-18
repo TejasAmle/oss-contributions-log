@@ -23,3 +23,4 @@
 | 2026-06-15 | doorstop-dev/doorstop | PR | https://github.com/doorstop-dev/doorstop/pull/778 | Fix 4 http:// → https:// links in README and update Poetry URL from retired poetry.eustace.io to python-poetry.org |
 | 2026-06-16 | pytest-dev/pytest-asyncio | PR | https://github.com/pytest-dev/pytest-asyncio/pull/1483 | Fix typo "it default" → "it defaults" in asyncio_default_test_loop_scope description in configuration.rst |
 | 2026-06-17 | pschanely/CrossHair | PR | https://github.com/pschanely/CrossHair/pull/432 | Fix misnumbered list (1,3,2→1,2,3) in --per_path_timeout help text across main.py and 3 doc files |
+| 2026-06-18 | syrupy-project/syrupy | PR | https://github.com/syrupy-project/syrupy/pull/1113 | Fix three typos in CONTRIBUTING.md: "encounted"→"encountered", "enviroment"→"environment", "attemping"→"attempting" |
