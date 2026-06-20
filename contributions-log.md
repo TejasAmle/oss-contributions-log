@@ -25,3 +25,4 @@
 | 2026-06-17 | pschanely/CrossHair | PR | https://github.com/pschanely/CrossHair/pull/432 | Fix misnumbered list (1,3,2→1,2,3) in --per_path_timeout help text across main.py and 3 doc files |
 | 2026-06-18 | syrupy-project/syrupy | PR | https://github.com/syrupy-project/syrupy/pull/1113 | Fix three typos in CONTRIBUTING.md: "encounted"→"encountered", "enviroment"→"environment", "attemping"→"attempting" |
 | 2026-06-19 | tox-dev/tox | PR | https://github.com/tox-dev/tox/pull/3963 | Replace stale http://tox.readthedocs.org with https://tox.wiki in pyproject.toml Homepage, CONTRIBUTING.md, and PULL_REQUEST_TEMPLATE.md |
+| 2026-06-20 | pypa/cibuildwheel | PR | https://github.com/pypa/cibuildwheel/pull/2927 | Replace http://github.com links with https://github.com for matthew-brett/delocate and matthew-brett/multibuild in README |
