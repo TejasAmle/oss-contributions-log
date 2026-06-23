@@ -27,4 +27,5 @@
 | 2026-06-19 | tox-dev/tox | PR | https://github.com/tox-dev/tox/pull/3963 | Replace stale http://tox.readthedocs.org with https://tox.wiki in pyproject.toml Homepage, CONTRIBUTING.md, and PULL_REQUEST_TEMPLATE.md |
 | 2026-06-20 | pypa/cibuildwheel | PR | https://github.com/pypa/cibuildwheel/pull/2927 | Replace http://github.com links with https://github.com for matthew-brett/delocate and matthew-brett/multibuild in README |
 | 2026-06-21 | nose-devs/nose2 | PR | https://github.com/nose-devs/nose2/pull/669 | Update 9 outdated URLs across 6 doc files: beta.ruff.rs to docs.astral.sh/ruff, pypi.python.org to pypi.org, sphinx.pocoo.org to www.sphinx-doc.org, pytest.readthedocs.io to docs.pytest.org, argparse PyPI to stdlib docs |
-| 2026-06-22 | ansible/molecule | PR | https://github.com/ansible/molecule/pull/4649 | Update CI docs: checkout/setup-python v2→v4, Azure ubuntu-16.04→ubuntu-22.04, tox.readthedocs.io→tox.wiki |
+| 2026-06-22 | ansible/molecule | PR | https://github.com/ansible/molecule/pull/4649 | Update CI docs: checkout/setup-python v2→v4, Azure ubuntu-16.04→ubuntu-22.04, tox.readthedocs.io→tox.wiki || 2026-06-23 | pytest-dev/pytest-html | PR | https://github.com/pytest-dev/pytest-html/pull/1044 | Fix typo Cascasding→Cascading and update 5 deprecated pypi.python.org/http links to pypi.org/https |
+
