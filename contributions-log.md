@@ -30,4 +30,5 @@
 | 2026-06-22 | ansible/molecule | PR | https://github.com/ansible/molecule/pull/4649 | Update CI docs: checkout/setup-python v2→v4, Azure ubuntu-16.04→ubuntu-22.04, tox.readthedocs.io→tox.wiki |
 | 2026-06-23 | pytest-dev/pytest-html | PR | https://github.com/pytest-dev/pytest-html/pull/1044 | Fix typo Cascasding→Cascading and update 5 deprecated pypi.python.org/http links to pypi.org/https |
 | 2026-06-24 | joke2k/faker | PR | https://github.com/joke2k/faker/pull/2394 | Fix 3 outdated links in README: deprecated search.cpan.org→metacpan.org, http→https Buildout URL, /en/master/→/en/stable/ pytest-fixtures link |
+| 2026-06-25 | pytest-dev/pluggy | PR | https://github.com/pytest-dev/pluggy/pull/691 | Fix 4 outdated links in README.rst: http→https pytest.org and devpi, tox.readthedocs.org→tox.wiki, ambv/black→psf/black badge |
 
