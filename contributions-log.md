@@ -32,4 +32,5 @@
 | 2026-06-24 | joke2k/faker | PR | https://github.com/joke2k/faker/pull/2394 | Fix 3 outdated links in README: deprecated search.cpan.org→metacpan.org, http→https Buildout URL, /en/master/→/en/stable/ pytest-fixtures link |
 | 2026-06-25 | pytest-dev/pluggy | PR | https://github.com/pytest-dev/pluggy/pull/691 | Fix 4 outdated links in README.rst: http→https pytest.org and devpi, tox.readthedocs.org→tox.wiki, ambv/black→psf/black badge |
 | 2026-06-28 | 15r10nk/inline-snapshot | PR | https://github.com/15r10nk/inline-snapshot/pull/375 | Fix typo "note" → "not" in configuration.md default-flags description |
+| 2026-06-29 | mitmproxy/pdoc | PR | https://github.com/mitmproxy/pdoc/pull/893 | Fix og:url meta tag typo: pdov.dev → pdoc.dev in docs/index.html.jinja2 |
 
