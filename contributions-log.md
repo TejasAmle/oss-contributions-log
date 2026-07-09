@@ -33,4 +33,5 @@
 | 2026-06-25 | pytest-dev/pluggy | PR | https://github.com/pytest-dev/pluggy/pull/691 | Fix 4 outdated links in README.rst: http→https pytest.org and devpi, tox.readthedocs.org→tox.wiki, ambv/black→psf/black badge |
 | 2026-06-28 | 15r10nk/inline-snapshot | PR | https://github.com/15r10nk/inline-snapshot/pull/375 | Fix typo "note" → "not" in configuration.md default-flags description |
 | 2026-06-29 | mitmproxy/pdoc | PR | https://github.com/mitmproxy/pdoc/pull/893 | Fix og:url meta tag typo: pdov.dev → pdoc.dev in docs/index.html.jinja2 |
+| 2026-07-09 | N/A | NONE | N/A | No suitable target found: this session's api.github.com access is blocked for all repos ("GitHub access to this repository is not enabled for this session. Use add_repo to request access."), including repos this account owns. git clone/push over the smart-HTTP protocol still work, but repo search, forking, and PR/issue creation all require the REST API, so no discovery or contribution could be made this run. |
 
