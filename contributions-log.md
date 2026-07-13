@@ -35,3 +35,4 @@
 | 2026-06-29 | mitmproxy/pdoc | PR | https://github.com/mitmproxy/pdoc/pull/893 | Fix og:url meta tag typo: pdov.dev → pdoc.dev in docs/index.html.jinja2 |
 | 2026-07-09 | N/A | NONE | N/A | No suitable target found: this session's api.github.com access is blocked for all repos ("GitHub access to this repository is not enabled for this session. Use add_repo to request access."), including repos this account owns. git clone/push over the smart-HTTP protocol still work, but repo search, forking, and PR/issue creation all require the REST API, so no discovery or contribution could be made this run. |
 
+| 2026-07-13 | anthropics/claude-agent-sdk-python | PR | https://github.com/anthropics/claude-agent-sdk-python/pull/1115 | Document filesystem settings defaults (setting_sources, CLAUDE.md) in README with verified repro; addresses recurring confusion in #1066/#977/#45/#406 |
